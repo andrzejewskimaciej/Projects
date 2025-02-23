@@ -1,5 +1,5 @@
 # Projects
-Repository summarizing most important projects 
+Repository summarizing my most important projects 
 
 ## List of projects:
 * [PantryBuddy](https://github.com/andrzejewskimaciej/PantryBuddy) - Java recipes book taking into account home supplies, developed during the 3th semester of Bachelor's Studies on Data Science course
